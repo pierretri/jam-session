@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Caprasimo&family=Montserrat:wght@100;400;600&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/list.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("component/card-small.css")
+
+
+body {
+	font-family:'Times New Roman', sans-serif;
+	font-size: 18px;
+	font-weight: light;
+	color:#3F2304;
+	background-color:#c2b8ac;
+	margin:0;
+}
+
+
+h1, h2 {
+	font-family: 'Great Vibes';
+	font-weight: bold;
+	color: #884a39f4;
+	margin-top: 50px;
+	margin-bottom: 30px;
+}
+
+h3 {
+	font-family: 'montserrat', sans sans-serif;
+	font-size:16px;
+	color:#473428;
+}
+
+
+a {
+	text-decoration: none;
+}
+
+

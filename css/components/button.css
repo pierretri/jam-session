@@ -1,0 +1,17 @@
+.btn-blue {
+	background-color:#5b73de;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: hsla(235, 55%, 96%, 0.976);
+	font-weight: bold;
+	font-family: 'caprisimo';
+	margin-top: 10px;
+	transition: color 0.3s ease;
+
+}
+
+.btn-blue:hover {
+	color:#c6c7e0;
+	background-color:#7427e1;
+	text-decoration: none;
+}
